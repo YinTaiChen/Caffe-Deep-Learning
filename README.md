@@ -7,7 +7,7 @@
 - [GoogLeNet](https://github.com/YinTaiChen/Caffe-Deep-Learning/blob/master/GooLeNet.prototxt)
 - [VGGNet](https://github.com/YinTaiChen/Caffe-Deep-Learning/blob/master/VGGNet.prototxt)
 - [Siamese](https://github.com/YinTaiChen/Caffe-Deep-Learning/blob/master/Siamese.prototxt)
-- [SqueezeNet](https://github.com/YinTaiChen/Caffe-Deep-Learning/blob/master/SqueezeNet.prototxt)
+- [SqueezeNet](https://github.com/DeepScale/SqueezeNet)
 - [FCN](https://github.com/shelhamer/fcn.berkeleyvision.org)
 - [R-CNN](https://github.com/rbgirshick/rcnn)
 
