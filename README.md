@@ -11,6 +11,7 @@
 - [FCN](https://github.com/shelhamer/fcn.berkeleyvision.org)
 - [R-CNN](https://github.com/rbgirshick/rcnn)
 - [Fast R-CNN](https://github.com/rbgirshick/caffe-fast-rcnn)
+- [Faster R-CNN](https://github.com/rbgirshick/py-faster-rcnn)
 
 ## Papers
 - [Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf)
@@ -22,3 +23,4 @@
 - [Fully convolutional networks for semantic segmentation](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf)
 - [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
 - [Fast R-CNN](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+- [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
